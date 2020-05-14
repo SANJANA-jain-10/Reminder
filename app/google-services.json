@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349317164790",
+    "firebase_url": "https://reminder-3f201.firebaseio.com",
+    "project_id": "reminder-3f201",
+    "storage_bucket": "reminder-3f201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349317164790:android:95ca0c17f4c6c1666b06d7",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349317164790-i0l0adgrtfpgd06qtb4b2g5ii46tldg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reminder",
+            "certificate_hash": "a8717d17b56bdea14becd0a74bfe25229b65630a"
+          }
+        },
+        {
+          "client_id": "349317164790-ea9sulv7d1ce916o1tk8su7phfgfbmnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACD3QyCImKgbIUYiY-n9HHXa-9wo_kBYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349317164790-ea9sulv7d1ce916o1tk8su7phfgfbmnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
